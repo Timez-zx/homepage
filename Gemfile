@@ -30,6 +30,7 @@ end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
+    gem 'activesupport', '~> 7.0'  # required by plugins, ensure compatible version with Ruby 3.1.3
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
