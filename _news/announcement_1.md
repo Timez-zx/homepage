@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **Amazon AI PhD Fellowship** — many thanks to Amazon! :pray:
+Received the **Amazon AI Fellowship**. Thanks, Amazon!
