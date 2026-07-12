@@ -76,12 +76,21 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
   /* ---- Unify all about-page section headings (research interests,
      news, selected publications) into one refined small-caps style ---- */
   .post h2 {
-    font-size: 0.78rem;
+    font-size: 0.9rem;
     font-weight: 600;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--global-text-color-light);
-    margin: 2rem 0 0.9rem;
+    color: var(--global-theme-color);
+    margin: 2.2rem 0 1rem;
+  }
+  .post h2::after {
+    content: "";
+    display: block;
+    width: 1.75rem;
+    height: 2px;
+    margin-top: 0.45rem;
+    background-color: var(--global-theme-color);
+    border-radius: 2px;
   }
   .post h2 a {
     color: inherit;
