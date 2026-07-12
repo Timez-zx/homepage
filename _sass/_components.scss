@@ -58,6 +58,15 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  // Soft-feather the profile photo's rim so it blends into the page
+  // background. The mask fades to transparent (not a baked-in color), so it
+  // integrates cleanly in both light and dark mode. Replaces the hard shadow.
+  img {
+    box-shadow: none !important;
+    -webkit-mask-image: radial-gradient(circle closest-side, #000 88%, rgba(0, 0, 0, 0) 100%);
+    mask-image: radial-gradient(circle closest-side, #000 88%, rgba(0, 0, 0, 0) 100%);
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
