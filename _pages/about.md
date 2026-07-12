@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at the University of Texas at Austin, advised by [Daehyeok Kim](https://daehyeok.kim). I work at the intersection of **networked/distributed systems** and **AI infrastructure**. My research spans datacenter networks, 5G and edge computing, and cross-layer telemetry, with a current focus on making AI workloads predictable and efficient—from the network fabric up to GPU resources. I build practical, measurement-driven systems that bridge real-world deployment with the infrastructure needs of modern AI.
+I am a Ph.D. student in Computer Science at the University of Texas at Austin, advised by [Daehyeok Kim](https://daehyeok.kim). I work at the intersection of **networked/distributed systems** and **AI infrastructure**. My research spans datacenter networks and edge computing, with a current focus on making AI workloads predictable and efficient—from the network fabric up to GPU resources. I build practical, measurement-driven systems that bridge real-world deployment with the infrastructure needs of modern AI.
 
 <div class="quick-links">
   <a href="https://scholar.google.com/citations?user=yLJE1-kAAAAJ" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>Scholar</a>
