@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-received-the-amazon-ai-phd-fellowship-many-thanks-to-amazon-pray",
-          title: 'Received the Amazon AI PhD Fellowship — many thanks to Amazon! :pray:',
+            },},{id: "news-received-the-amazon-ai-fellowship-thanks-amazon",
+          title: 'Received the Amazon AI Fellowship. Thanks, Amazon!',
           description: "",
           section: "News",},{id: "news-smec-accepted-to-nsdi-2026",
           title: 'SMEC accepted to NSDI 2026.',
