@@ -70,11 +70,13 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
+      line-height: 1.5;
     }
   }
 }

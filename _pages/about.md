@@ -27,7 +27,3 @@ latest_posts:
 ---
 
 I am a Ph.D. student in Computer Science at the University of Texas at Austin, advised by [Daehyeok Kim](https://daehyeok.kim). I work at the intersection of **networked/distributed systems** and **AI infrastructure**. My research spans datacenter networks, 5G and edge computing, and cross-layer telemetry, with a current focus on making AI workloads predictable and efficient—from the network fabric up to GPU resources. I build practical, measurement-driven systems that bridge real-world deployment with the infrastructure needs of modern AI.
-
-I am currently a Software Engineering Intern at Google Cloud, working on network telemetry for AI workloads. Previously, I earned my M.E. and B.E. at Shanghai Jiao Tong University, where I worked with [Shizhen Zhao](https://jhc.sjtu.edu.cn/~shizhenzhao/) on deadlock-free data center network design, and I have collaborated with [Vincent Liu](https://vincen.tl) at the University of Pennsylvania.
-
-Feel free to reach out at zx123 [at] utexas [dot] edu.
