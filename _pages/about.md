@@ -110,4 +110,30 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
       margin-top: -5.5rem;
     }
   }
+
+  /* ---- News list: quieter, tabular dates + roomier rows ---- */
+  .news .table th {
+    width: 8.5rem !important;
+    color: var(--global-theme-color);
+    font-weight: 600;
+    font-size: 0.8rem;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    padding: 0.55rem 1rem 0.55rem 0;
+    vertical-align: baseline;
+    font-variant-numeric: tabular-nums;
+  }
+  .news .table td {
+    font-size: 0.95rem;
+    padding: 0.55rem 0;
+    vertical-align: baseline;
+    border-top: 1px solid var(--global-divider-color);
+  }
+  .news .table tr:first-child td,
+  .news .table tr:first-child th {
+    border-top: none;
+  }
+  .news .table th {
+    border-top: 1px solid var(--global-divider-color);
+  }
 </style>
