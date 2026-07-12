@@ -2,6 +2,6 @@
 layout: page
 permalink: /service/
 title: service
-nav: true
+nav: false
 nav_order: 5
 ---
