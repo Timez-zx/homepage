@@ -114,7 +114,8 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
      cohesive hero block instead of floating below the heading ---- */
   @media (min-width: 576px) {
     .profile {
-      margin-top: -5.5rem;
+      width: 25%;
+      margin-top: -4rem;
     }
   }
 
