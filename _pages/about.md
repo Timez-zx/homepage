@@ -37,9 +37,7 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
   <span>Networked &amp; Distributed Systems</span>
   <span>AI Infrastructure</span>
   <span>Datacenter Networks</span>
-  <span>5G &amp; Edge Computing</span>
-  <span>Cross-layer Telemetry</span>
-  <span>Resource Management</span>
+  <span>Edge AI</span>
 </div>
 
 <style>
