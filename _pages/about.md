@@ -113,10 +113,10 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
 
   /* ---- News list: quieter, tabular dates + roomier rows ---- */
   .news .table th {
-    width: 8.5rem !important;
+    width: 9rem !important;
     color: var(--global-theme-color);
     font-weight: 600;
-    font-size: 0.8rem;
+    font-size: 0.95rem;
     letter-spacing: 0.01em;
     white-space: nowrap;
     padding: 0.55rem 1rem 0.55rem 0;
