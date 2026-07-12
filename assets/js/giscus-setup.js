@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Timez-zx/homepage",
+    "data-repo": "Timez-zx/timez-zx.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
