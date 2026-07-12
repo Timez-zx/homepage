@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Computer Science, <a href='https://www.cs.utexas.edu/'>UT Austin</a> · Advised by <a href='https://daehyeok.kim'>Daehyeok Kim</a>
+subtitle: Ph.D. Student in Computer Science, <a href='https://www.cs.utexas.edu/'>UT Austin</a> · <a href='https://utns.cs.utexas.edu/'>UTNS</a>
 
 profile:
   align: right
@@ -114,7 +114,7 @@ I am a Ph.D. student in Computer Science at the University of Texas at Austin, a
      cohesive hero block instead of floating below the heading ---- */
   @media (min-width: 576px) {
     .profile {
-      width: 25%;
+      width: 28%;
       margin-top: -4rem;
     }
   }
