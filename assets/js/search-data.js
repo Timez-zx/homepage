@@ -17,18 +17,11 @@ ninja.data = [{
             window.location.href = "/al-folio/publications/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "cv",
+          description: "My full curriculum vitae.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/cv/";
-          },
-        },{id: "nav-service",
-          title: "service",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/service/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -398,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-received-the-amazon-ai-phd-fellowship",
+          title: 'Received the Amazon AI PhD Fellowship.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-smec-accepted-to-nsdi-2026",
+          title: 'SMEC accepted to NSDI 2026.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-a-swe-internship-at-google-cloud",
+          title: 'Started a SWE internship at Google Cloud.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -469,21 +460,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("mailto:%7A%78%31%32%33@%75%74%65%78%61%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=yLJE1-kAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Timez-zx", "_blank");
         },
       },{
       id: 'light-theme',
